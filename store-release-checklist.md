@@ -25,7 +25,7 @@ Checklist này là phần cấu hình còn phải làm trong tài khoản Google
 ## 3. Privacy policy và Data safety
 
 - Host thư mục `docs/` bằng GitHub Pages hoặc dịch vụ HTTPS công khai; trang không được yêu cầu đăng nhập hay cho người xem sửa. Đổi tên đơn vị/liên hệ trong policy nếu tên nhà phát hành trên Play Console không phải “PicPose”.
-- URL mặc định của app là `https://recca0201.github.io/picpose/privacy-policy.html`; khai báo cùng URL trong Play Console và AdMob. Chỉ dùng `PRIVACY_POLICY_URL` khi chuyển sang domain khác.
+- URL mặc định của app là `https://recca0201.github.io/picpose-legal/privacy-policy.html`; khai báo cùng URL trong Play Console và AdMob. Chỉ dùng `PRIVACY_POLICY_URL` khi chuyển sang domain khác.
 - Kiểm lại Data safety mỗi khi nâng SDK. Với Google Mobile Ads hiện tại, tối thiểu xem xét khai báo dữ liệu được collect/share cho advertising, analytics và fraud prevention:
   - approximate location suy ra từ IP;
   - app interactions;
