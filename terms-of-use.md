@@ -13,7 +13,7 @@ PicPose cung cấp nội dung hướng dẫn tạo dáng và công cụ camera c
 
 ## Bản miễn phí
 
-Bản miễn phí cung cấp 30 pose, tối đa 12 pose đã lưu và có thể hiển thị quảng cáo. Chức năng miễn phí có thể được điều chỉnh hợp lý nhưng không được mô tả sai trong store listing.
+Bản miễn phí cung cấp 68 pose, gồm 30 pose miễn phí ban đầu cùng toàn bộ pose cấp Dễ và nhóm Gia đình; tối đa 12 pose đã lưu và có thể hiển thị quảng cáo. Chức năng miễn phí có thể được điều chỉnh hợp lý nhưng không được mô tả sai trong store listing.
 
 ## PicPose VIP
 
